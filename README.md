@@ -1,6 +1,6 @@
 # Legboss/skills
 
-A Claude Code plugin bundling `grill-with-docs` (and its dependencies `grilling`, `domain-modeling`), plus an optional status line script.
+A Claude Code plugin bundling `grill-with-docs` and `grill-me` (and their shared dependencies `grilling`, `domain-modeling`), plus an optional status line script.
 
 ## Install the plugin (skills)
 
