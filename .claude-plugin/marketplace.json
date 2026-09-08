@@ -1,0 +1,22 @@
+{
+  "name": "legboss",
+  "owner": {
+    "name": "Legboss"
+  },
+  "description": "grill-with-docs and its dependencies, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "grill-with-docs",
+      "source": "./",
+      "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADRs and glossary) as we go.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "grilling",
+        "domain-modeling",
+        "docs"
+      ]
+    }
+  ]
+}

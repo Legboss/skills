@@ -1,0 +1,23 @@
+{
+  "name": "grill-with-docs",
+  "version": "1.0.0",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADRs and glossary) as we go.",
+  "author": {
+    "name": "Legboss"
+  },
+  "homepage": "https://github.com/Legboss/skills",
+  "repository": "https://github.com/Legboss/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "grilling",
+    "domain-modeling",
+    "docs"
+  ],
+  "skills": [
+    "./grill-with-docs",
+    "./grilling",
+    "./domain-modeling"
+  ]
+}
