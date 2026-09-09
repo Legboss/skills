@@ -1,0 +1,16 @@
+{
+  "model": "sonnet",
+  "statusLine": {
+    "type": "command",
+    "command": "node ~/.claude/statusline.js"
+  },
+  "effortLevel": "high",
+  "autoUpdatesChannel": "latest",
+  "tui": "fullscreen",
+  "theme": "dark",
+  "modelSettings": {
+    "local-llama": {
+      "effortLevel": "low"
+    }
+  }
+}

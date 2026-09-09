@@ -1,0 +1,14 @@
+# Never commit Claude Code runtime state or secrets, even if someone
+# copies more out of ~/.claude into dotfiles/ later.
+.credentials.json
+history.jsonl
+*.log
+sessions/
+projects/
+backups/
+cache/
+downloads/
+shell-snapshots/
+file-history/
+paste-cache/
+daemon*
