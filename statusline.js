@@ -80,7 +80,7 @@ process.stdin.on('end', () => {
       const m = minsLeft % 60;
       resetStr = `, reset in ${h > 0 ? h + 'h ' : ''}${m}m`;
     }
-    line += ` | ${remaining}% left${resetStr}`;
+    line += ` | Left ${remaining}%${resetStr}`;
   }
 
   line += mcpSuffix;
